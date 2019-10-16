@@ -1,6 +1,6 @@
 <template>
   <div class="swiper">
-    <swiper :options="swiperOption" v-if="swiperList.length>1">
+    <swiper :options="swiperOption">
       <!-- slides -->
        <swiper-slide v-for="item of swiperList" :key="item.id">
           <img class="swiper-img" :src="item.imgUrl" alt="">
@@ -47,7 +47,7 @@ export default {
     overflow: hidden;
     width: 100%;
     height: 0;
-    padding-bottom: 31.25%;
+    padding-bottom: 26.66%;
     .swiper-img
       width: 100%;
 </style>
