@@ -28,7 +28,6 @@ export default {
     right: 0;
     bottom: 0;
     width: .4rem;
-    background: red;
     display: flex;
     flex-direction: column;
     justify-content: center;
