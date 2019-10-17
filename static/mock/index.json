@@ -1,0 +1,114 @@
+{
+  "ret": true,
+  "data": {
+    "city": "北京",
+    "swiperList": [
+      {
+        "id": "0001",
+        "imgUrl": "https://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/201910/5ebde45f144a50e6427de9e74dad50d4.jpg_750x200_179eb37f.jpg"
+      },
+      {
+        "id": "0002",
+        "imgUrl": "https://imgs.qunarzz.com/piao/fusion/1809/b1/5fb695dd812fdc02.jpg_750x200_6f896d28.jpg"
+      },
+      {
+        "id": "0003",
+        "imgUrl": "https://imgs.qunarzz.com/piao/fusion/1803/98/0a2e0bd8eb0c0802.png_750x200_0a34d4a8.png"
+      }
+    ],
+    "iconList": [
+      {
+        "id": "001",
+        "imgUrl": "https://imgs.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+        "desc": "景点门票景点门票景点门票"
+      }, {
+        "id": "002",
+        "imgUrl": "https://imgs.qunarzz.com/piao/fusion/1803/6c/9e54a8540fee0102.png",
+        "desc": "故宫"
+      }, {
+        "id": "003",
+        "imgUrl": "https://imgs.qunarzz.com/piao/fusion/1804/ff/fdf170ee89594b02.png",
+        "desc": "北京必游"
+      }, {
+        "id": "004",
+        "imgUrl": "https://imgs.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+        "desc": "景点门票"
+      }, {
+        "id": "005",
+        "imgUrl": "https://imgs.qunarzz.com/piao/fusion/1804/5a/13ceb38dcf262f02.png",
+        "desc": "一日游"
+      }, {
+        "id": "006",
+        "imgUrl": "https://imgs.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+        "desc": "景点门票"
+      }, {
+        "id": "007",
+        "imgUrl": "https://imgs.qunarzz.com/piao/fusion/1803/6c/9e54a8540fee0102.png",
+        "desc": "故宫"
+      }, {
+        "id": "008",
+        "imgUrl": "https://imgs.qunarzz.com/piao/fusion/1804/ff/fdf170ee89594b02.png",
+        "desc": "北京必游"
+      }, {
+        "id": "009",
+        "imgUrl": "https://imgs.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+        "desc": "景点门票"
+      }, {
+        "id": "010",
+        "imgUrl": "https://imgs.qunarzz.com/piao/fusion/1803/76/eb88861d78fb9902.png",
+        "desc": "一日游"
+      }],
+    "recommendList": [
+      {
+        "id": "001",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1703/3a/3a4a9641a8867671a3.img.png_200x200_9a235bb9.png",
+        "title": "大连圣亚海洋世界",
+        "desc": "浪漫大连首站, 浪漫的海洋主题公园"
+      },
+      {
+        "id": "002",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1703/3a/3a4a9641a8867671a3.img.png_200x200_9a235bb9.png",
+        "title": "大连圣亚海洋世界",
+        "desc": "浪漫大连首站, 浪漫的海洋主题公园"
+      },
+      {
+        "id": "003",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1703/3a/3a4a9641a8867671a3.img.png_200x200_9a235bb9.png",
+        "title": "大连圣亚海洋世界",
+        "desc": "浪漫大连首站, 浪漫的海洋主题公园"
+      },
+      {
+        "id": "004",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1703/3a/3a4a9641a8867671a3.img.png_200x200_9a235bb9.png",
+        "title": "大连圣亚海洋世界",
+        "desc": "浪漫大连首站, 浪漫的海洋主题公园"
+      }
+    ],
+    "weekendList": [
+      {
+        "id": "001",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1505/19/58f233e11df7ef.jpg_r_640x214_6b42c9fc.jpg",
+        "title": "大连圣亚海洋世界",
+        "desc": "浪漫大连首站, 浪漫的海洋主题公园"
+      },
+      {
+        "id": "002",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1505/19/58f233e11df7ef.jpg_r_640x214_6b42c9fc.jpg",
+        "title": "大连圣亚海洋世界",
+        "desc": "浪漫大连首站, 浪漫的海洋主题公园"
+      },
+      {
+        "id": "003",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1505/19/58f233e11df7ef.jpg_r_640x214_6b42c9fc.jpg",
+        "title": "大连圣亚海洋世界",
+        "desc": "浪漫大连首站, 浪漫的海洋主题公园"
+      },
+      {
+        "id": "004",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1505/19/58f233e11df7ef.jpg_r_640x214_6b42c9fc.jpg",
+        "title": "大连圣亚海洋世界",
+        "desc": "浪漫大连首站, 浪漫的海洋主题公园"
+      }
+    ]
+  }
+}
