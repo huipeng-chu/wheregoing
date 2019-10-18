@@ -21,13 +21,18 @@ export default {
   },
   data () {
     return {
-      touchStatus: ''
+      touchStatus: '',
+      startY: 0,
+      timer: null
     }
   },
   computed: {
     letters () {
       return Object.keys(this.cities)
     }
+  },
+  updated () {
+    this.startY = this.$refs['A'][0].offsetTop;
   },
   methods: {
     handleLetterClick (e) {
@@ -39,12 +44,17 @@ export default {
     },
     handleLetterMove (e) {
       if (this.touchStatus) {
-        var startY = this.$refs['A'][0].offsetTop
-        var touchY = e.touches[0].clientY - 79
-        var index = Math.floor((touchY - startY) / 20)
-        if (index >= 0 && index < this.letters.length) {
-          this.$emit('change', this.letters[index])
+        if (this.timer)
+        {
+          clearTimeout(this.timer)
         }
+        this.timer = setTimeout(() => {
+          var touchY = e.touches[0].clientY - 79
+          var index = Math.floor((touchY - this.startY) / 20)
+          if (index >= 0 && index < this.letters.length) {
+            this.$emit('change', this.letters[index])
+          }
+        }, 16)
       }
     },
     handleLetterEnd (e) {
